@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789106654297",
+    "firebase_url": "https://greenerlife-737ba.firebaseio.com",
+    "project_id": "greenerlife-737ba",
+    "storage_bucket": "greenerlife-737ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789106654297:android:919130d201b48d8d",
+        "android_client_info": {
+          "package_name": "com.example.greenerlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789106654297-q9u9cdvjfv89maio0418am4pdqshcqe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcfL_fsWS9u8G49xO9lT4vngMHQqt4zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789106654297-q9u9cdvjfv89maio0418am4pdqshcqe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
